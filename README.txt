@@ -39,4 +39,4 @@ git使用
     git reset --hard 指纹信息（前几位数）
 
 15：查看历史命令(根据指纹信息可以回退任意版本)
-    git reflog
+    git  reflog
